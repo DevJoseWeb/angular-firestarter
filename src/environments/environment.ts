@@ -1,11 +1,11 @@
 export const environment = {
     production: false,
     firebaseConfig: {
-        apiKey: 'APIKEY',
-        authDomain: 'DEV-APP.firebaseapp.com',
-        databaseURL: 'https://DEV-APP.firebaseio.com',
-        projectId: 'DEV-APP',
-        storageBucket: 'DEV-APP.appspot.com',
-        messagingSenderId: '123456789'
+        apiKey: "AIzaSyCPU64WC6458qkEPCZHoTf8-xqtj4eTteM",
+        authDomain: "livro-x.firebaseapp.com",
+        databaseURL: "https://livro-x.firebaseio.com",
+        projectId: "livro-x",
+        storageBucket: "livro-x.appspot.com",
+        messagingSenderId: "941296675180"
     }
 };
